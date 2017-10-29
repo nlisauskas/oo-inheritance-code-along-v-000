@@ -8,8 +8,12 @@ class Vehicle
   end
 
   def go
-    "vroooooommm!"
+    "vrrrrrrrooom!"
   end
-  
+ 
+  def fill_up_tank
+    "filling up!"
+  end
+
 
 end
